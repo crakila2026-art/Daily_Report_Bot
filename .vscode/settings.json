@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default High Contrast Light",
+    "python-envs.pythonProjects": [
+        {
+            "path": "student_grade_manager_day1",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
